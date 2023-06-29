@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/avdeyyy/)">
+  <a href="(https://www.linkedin.com/in/avdeyyy/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/AvdeyY/">
+  <a href="https://leetcode.com/AvdeyY">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
   <a href="@AvdeyYy">
