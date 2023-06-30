@@ -28,7 +28,7 @@ I`am a Backend Developer from Russia.
 
 -In my free time I study English, technical documentation and solve problems in LeetCode.
 
--How to contact me and view my resume: [![Linkedin Badge](https://img.shields.io/badge/-AvdeyYy-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/avdeyyy")
+-How to contact me and view my resume: [![Linkedin Badge](https://img.shields.io/badge/-AvdeyYy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avdeyyy)
 
 ---
 
