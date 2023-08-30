@@ -22,7 +22,7 @@
 </div>
 
 ### About Me :
-I`am a Backend Developer from Russia.
+I`am a Backend Developer
 
 -I am free-floating, creating my projects for microservices and web applications.
 
